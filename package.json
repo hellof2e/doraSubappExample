@@ -1,4 +1,7 @@
 {
   "version": "1.0.0",
-  "subAppName": "doraSubappExample"
+  "subAppName": "doraSubappExample",
+  "scripts": {
+    "dora:publish": "dora publish"
+  }
 }
